@@ -1,6 +1,6 @@
 # Potential Talents
 
-Predict how fit the candidate is based on their available information in a a talent sourcing and management company.
+The goal of this project is to predict how fit the candidates are based on their available information. Rank candidates based on a fitness score and then Re-rank candidates when a candidate is starred.
 
 #Data Description:
 
