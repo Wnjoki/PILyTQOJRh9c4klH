@@ -36,5 +36,5 @@ After starring a candidate(s) by entering the id, the job titles of that candida
 Re-rank using the job title starred as keyword and finding its cosine similarity to all the other job titles. For this task Bert Embeddings vectors will be used.
 
 
-Finally I trained a lightGBM Ranking Algorithm using the consine simiralities of all the embeddings and the model had an accuracy of 90.o1% after hyperparameter tuning.
+Finally I trained a lightGBM Ranking Algorithm using the consine simiralities of all the embeddings and the model had an accuracy of 90.91% after hyperparameter tuning.
 
